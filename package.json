@@ -1,0 +1,17 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "This is repo for practice of Prisma ORM",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
